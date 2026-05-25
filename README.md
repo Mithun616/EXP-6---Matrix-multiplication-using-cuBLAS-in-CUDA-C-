@@ -45,8 +45,8 @@ Measure the execution time of matrix multiplication using the cuBLAS library wit
 Experiment with varying block sizes (e.g., 16, 32, 64 threads per block) and analyze their effect on execution time.
 Compare the performance of the GPU-based matrix multiplication using cuBLAS with a standard CPU-based matrix multiplication implementation.
 # PROGRAM:
-DEVELOPED BY : MITHUN KUMAR G
-REG NO: 212224230160
+## DEVELOPED BY : MITHUN KUMAR G
+## REG NO: 212224230160
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
